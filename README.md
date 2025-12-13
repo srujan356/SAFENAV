@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Gundoju Srujan Sai </p>
+    <p><strong>Email ID:</strong> srujan6366gundoju@gmail.com </p>
+    <p><strong>College Name:</strong> SRM institute of science and technology, kattankulathur </p>
+    <p><strong>Branch/Specialization :</strong> B.tech - CSE( data science ) </p>
+    <p><strong>College ID:</strong> RA2311056010066 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> UI/UX </p>
+    <p><strong>Instructor Name:</strong> Ghirri Sudhan</p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
+<p><strong>Trainer Name:</strong> Ghirri Sudhan</p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Designation:</strong> UI/UX designer at MetricStream</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,54 +63,41 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During my UI/UX internship, I learned to design with purpose, not just visuals.
+I worked on converting unclear requirements into clear user flows and usable interfaces.
+I understood how user needs, business goals, and technical limits influence design decisions.
+I learned the importance of design systems for consistency and scalability.
+Feedback and iteration taught me to detach ego and improve fast.
+This experience grounded my design thinking in logic, clarity, and real-world usability.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> SAFENAV - Safety promise with navigation</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: SAFENAV - Safety promise with navigation</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+SafeNav is a safety-focused navigation and assistance application designed for travel and daily commuting.
+It helps users navigate unfamiliar or high-risk areas with confidence.
+The app provides route guidance with a strong focus on user awareness and control.
+SafeNav includes features to support users during emergencies or unsafe situations.
+Navigation is designed to reduce confusion and decision overload.
+The experience prioritizes clarity, speed, and accessibility.
+Users can plan routes while considering safety-related factors.
+The interface is built to function effectively under stress.
+SafeNav focuses on real-world usability rather than decorative design.
+The product is aimed at improving user confidence and personal safety during movement.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/GUNDOJU-SRUJAN-SAI-g5-ui-ux/blob/9179eff9cf661122ff30d1f655a3d6b6d8fe4e4b/Course%20report/Safenav%20report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
@@ -124,42 +111,37 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+Soft Skills Training (SST)
+
+The Soft Skills Training sessions focused on developing professional communication and interpersonal abilities. Through these sessions, I improved my verbal and written communication, presentation clarity, and listening skills. The training emphasized teamwork, adaptability, and professional behavior in workplace environments. It also helped me understand the importance of collaboration, responsibility, and effective interaction in organizational settings.
+
+Life Skills Training (LST)
+
+The Life Skills Training sessions aimed at building personal discipline and practical decision-making abilities. These sessions improved my time management, goal setting, and stress-handling skills. I learned the importance of self-awareness, emotional control, and consistency in both academic and professional life. The training encouraged structured thinking and responsible decision-making, which are essential for long-term professional growth.
 
 ## **Community Services**
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
-
-### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+During my internship period, I participated in a tree planting service initiative focused on environmental responsibility.
+The activity emphasized the importance of sustainability and community contribution.
+It involved hands-on participation in planting and maintaining saplings.
+The experience reinforced collective responsibility toward ecological balance.
   
- <!-- add the location where you have panted -->
+ New gayatri nagar, jillelguda, hyderabad
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
-
-<!-- you can write impacts according to your experience in your words-->
-
 ### **Impact / Contribution**
-
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+New gayatri nagar, jillelguda, hyderabad
+I actively contributed to a tree planting service initiative aimed at promoting environmental sustainability.
+My involvement supported increasing green cover and environmental awareness at the community level.
+The activity reinforced the importance of collective action toward ecological balance.
 
 ### **Photos**
 
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
@@ -186,4 +168,3 @@ The internship certificate serves as an official acknowledgment of the successfu
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
-
