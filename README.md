@@ -144,9 +144,11 @@ The activity reinforced the importance of collective action toward ecological ba
 
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/user-attachments/assets/b11b5c8f-8d66-4f9c-bb4e-286704842830" />
+<img src="https://github.com/user-attachments/assets/01bc8a93-6484-43bf-a61c-802e9062becd" />
+<img src="https://github.com/user-attachments/assets/311d002b-8644-4684-8a40-c79ad0131406" />
+<img src="https://github.com/user-attachments/assets/488db162-b427-4b29-8d05-4948605392a0" />
+
 </div>
 
 ---
